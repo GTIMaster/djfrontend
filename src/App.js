@@ -26,6 +26,7 @@ function App() {
       {/* <Networking /> */}
       {/* <Hook1 /> */}
       <Hook2 />
+      <h2>hello this is test for change</h2>
       {/* <h1>Django and Reactjs Course</h1> */}
       {/* {articles.map((article) => {
         return (
